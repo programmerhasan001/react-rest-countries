@@ -1,0 +1,11 @@
+.country{
+    border: 1px solid seagreen;
+    padding: 10px;
+    border-radius: 7px;
+}
+.country:hover{
+    border: 3px solid seagreen;
+}
+.country img{
+    width: 100%;
+}
